@@ -7,8 +7,6 @@ from scipy.spatial import cKDTree
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
-# ---------- 工具函式 ----------
 def load_nifti(path):
     img = nib.load(path)
     data = img.get_fdata()
@@ -16,7 +14,6 @@ def load_nifti(path):
     return data, spacing
 
 def binarize_and_filter(pred_prob, thresh=0.5, min_size=1000):
-    """二值化 + 去除小島"""
     pred_bin = (pred_prob >= thresh).astype(np.uint8)
     lbl, n = ndimage.label(pred_bin)
     sizes = ndimage.sum(pred_bin, lbl, range(1, n+1))
@@ -44,7 +41,7 @@ def hd95_from_voxels(bin1, bin2, spacing=(1.0,1.0,1.0)):
     s2 = surface_voxels(bin2)
     if s1.size == 0 or s2.size == 0:
         return np.nan
-    s1_mm = s1 * np.array(spacing[::-1])  # (z,y,x) → spacing (x,y,z) 先確認這裡是不是真的需要::
+    s1_mm = s1 * np.array(spacing[::-1])  # (z,y,x) → spacing (x,y,z) 
     s2_mm = s2 * np.array(spacing[::-1])
     tree_s2 = cKDTree(s2_mm)
     d1, _ = tree_s2.query(s1_mm, k=1)
@@ -53,7 +50,7 @@ def hd95_from_voxels(bin1, bin2, spacing=(1.0,1.0,1.0)):
     all_d = np.concatenate([d1, d2])
     return np.percentile(all_d, 95)
 
-# ---------- 主程式 ----------
+# main
 def evaluate_pairs(pairs_json, output_dir, min_size=500):
     os.makedirs(output_dir, exist_ok=True)
 
@@ -95,11 +92,11 @@ def evaluate_pairs(pairs_json, output_dir, min_size=500):
 
         print(f" {os.path.basename(pred_path)} | Dice={dice:.4f}, HD95={hd95:.2f} mm")
 
-    # 存到 Excel
+ 
     df = pd.DataFrame(results)
     out_path = os.path.join(output_dir, "qc_results.xlsx")
     df.to_excel(out_path, index=False)
-    print(f"\n 已輸出結果到: {out_path}")
+    print(f"\n output: {out_path}")
     # 計算平均值
     mean_dice = df["dice"].mean()
     mean_hd95 = df["hd95"].mean()
@@ -109,10 +106,11 @@ if __name__ == "__main__":
     output_dir = r"F:\yplai\qc_results"
     evaluate_pairs(pairs_json, output_dir)
 
-  # 讀取 Excel 結果
+  # read Excel 
 out_path = os.path.join(output_dir, "qc_results.xlsx")
 df = pd.read_excel(out_path)
 
 plt.figure(figsize=(12,5))
 plt.show()
+
 
