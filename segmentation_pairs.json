@@ -1,0 +1,586 @@
+[
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028581_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028581_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028582_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028582_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028583_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028583_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028584_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028584_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028589_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028589_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028590_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028590_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028591_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028591_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028592_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028592_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028593_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028593_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028594_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028594_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028595_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028595_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028596_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028596_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028597_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028597_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028598_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028598_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028599_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028599_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028600_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028600_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028601_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028601_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028603_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028603_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028605_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028605_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028606_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028606_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028607_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028607_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028608_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028608_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028609_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028609_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028610_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028610_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028611_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028611_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028614_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028614_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028617_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028617_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028618_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028618_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028619_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028619_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028621_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028621_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028623_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028623_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028624_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028624_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028625_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028625_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028626_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028626_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028627_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028627_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028628_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028628_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028629_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028629_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028630_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028630_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028633_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028633_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028634_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028634_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028636_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028636_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028637_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028637_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/dlbs_0028640_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/dlbs_0028640_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_002_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_002_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_016_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_016_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_019_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_019_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_020_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_020_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_021_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_021_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_022_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_022_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_023_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_023_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_024_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_024_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_025_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_025_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_026_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_026_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_027_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_027_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_028_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_028_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_029_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_029_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_037_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_037_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_040_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_040_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_042_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_042_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_044_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_044_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_045_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_045_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_046_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_046_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_053_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_053_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_054_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_054_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_055_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_055_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_058_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_058_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_061_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_061_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_062_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_062_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_063_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_063_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_069_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_069_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_071_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_071_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_073_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_073_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_075_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_075_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_077_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_077_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_084_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_084_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_086_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_086_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_090_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_090_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_091_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_091_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_099_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_099_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_100_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_100_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_101_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_101_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_103_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_103_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_106_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_106_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_107_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_107_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_108_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_108_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_109_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_109_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_110_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_110_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_111_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_111_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/ixi_112_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/ixi_112_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031274_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031274_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031275_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031275_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031276_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031276_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031277_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031277_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031278_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031278_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031280_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031280_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031281_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031281_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031286_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031286_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031287_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031287_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031288_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031288_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031289_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031289_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031290_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031290_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031291_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031291_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031292_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031292_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031293_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031293_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031294_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031294_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031295_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031295_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031296_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031296_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031297_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031297_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031298_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031298_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031299_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031299_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031300_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031300_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031301_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031301_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031302_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031302_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031307_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031307_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031308_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031308_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031312_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031312_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031315_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031315_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031316_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031316_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031318_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031318_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031319_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031319_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031321_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031321_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031322_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031322_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031324_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031324_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031325_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031325_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031326_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031326_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031327_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031327_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031331_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031331_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031334_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031334_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031335_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031335_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031336_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031336_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031337_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031337_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031338_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031338_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031341_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031341_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031342_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031342_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031343_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031343_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031344_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031344_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031345_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031345_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031346_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031346_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031348_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031348_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031349_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031349_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031350_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031350_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031351_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031351_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031354_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031354_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031355_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031355_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031356_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031356_probmask_graymatter.nii"
+    },
+    {
+        "pred": "F:/yplai/outputallfile/sald_031357_img_segmentation.nii.gz",
+        "label": "F:/yplai/test/mask/sald_031357_probmask_graymatter.nii"
+    }
+]
